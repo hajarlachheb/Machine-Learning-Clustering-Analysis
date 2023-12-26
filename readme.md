@@ -1,5 +1,3 @@
-### Team members:
-
 ### Running script for the first time
 
 # Open project’s root folder in terminal:
